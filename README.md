@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-kw&show_icons=true&locale=en" alt="kamil-kw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-kw&" alt="kamil-kw" /></p>
-
-![Snake animation](https://github.com/kamil-kw/kamil-kw.github.io/blob/output/github-contribution-grid-snake.svg)
