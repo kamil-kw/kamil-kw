@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-kw&" alt="kamil-kw" /></p>
 
+![snake gif](https://github.com/kamil-kw/kamil-kw/blob/output/github-contribution-grid-snake.gif)
+
