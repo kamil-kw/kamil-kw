@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **kwiatekexc@gmail.com**
 
+<a href="https://app.daily.dev/KamilK"><img src="https://api.daily.dev/devcards/19122f4b0e274e348cbdac26d4247d0a.png?r=ava" width="400" alt="Kamil Kwiatkowski's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kamil-kwiatkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kamil-kwiatkowski" height="30" width="40" /></a>
