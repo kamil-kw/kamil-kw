@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate full stack developer from Netherland</h3>
+<h3 align="center">A passionate coder, technical minded Full Stack Developer from Netherland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
 
