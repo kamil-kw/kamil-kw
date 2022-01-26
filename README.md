@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kwiatekexc@gmail.com**
 
-<a href="https://app.daily.dev/KamilK"><img src="https://api.daily.dev/devcards/19122f4b0e274e348cbdac26d4247d0a.png?r=8zc" width="400" alt="Kamil Kwiatkowski's Dev Card"/></a>
+<a href="https://app.daily.dev/KamilK"><img src="https://api.daily.dev/devcards/19122f4b0e274e348cbdac26d4247d0a.png?r=muv" width="400" alt="Kamil Kwiatkowski's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
