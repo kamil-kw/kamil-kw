@@ -1,3 +1,6 @@
+
+![image](images/hero1-1.jpg)
+
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate coder, technical minded Full Stack Software Developer from Netherland</h3>
 
