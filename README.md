@@ -10,9 +10,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamil-kw" alt="kamil-kw" /></a> </p>
 
-<p align="center">Programmers quote I stand for</p>
+<h3 align="center">Programmers quote I stand for</h3>
 <p align="center">"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."</p>
 <p align="center">Andrew Hunt</p>
+
+<h3 align="center">What I'm busy with</h3>
 
 <p align="center">
 - 🔭 I’m currently working on **Full Stack Software Developer Diploma**
