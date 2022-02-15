@@ -4,29 +4,29 @@
 ![image](images/hero1-1.jpg)
 
 
-<h3 align="center">A passionate coder, technical minded Full Stack Software Developer from Netherland</h3>
+<h3 align="center"><strong>A passionate coder, technical minded Full Stack Software Developer from Netherland</strong></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamil-kw" alt="kamil-kw" /></a> </p>
 
-<h3 align="center">Programmers quote I stand for</h3>
-<p align="center">"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."</p>
-<p align="center">Andrew Hunt</p>
+<h3 align="center"><strong>Programmers quote I stand for</strong></h3>
+<p align="center"><i>In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</i></p>
+<p align="center">--=Andrew Hunt=--</p>
 
-<h3 align="center">What I'm busy with</h3>
+<h3 align="center"><strong>What I'm busy with</strong></h3>
 
 <p align="center">
-- 🔭 I’m currently working on **Full Stack Software Developer Diploma**
+- 🔭 I’m currently working on <strong>Full Stack Software Developer Diploma</strong>
 </p>
 <p align="center">
-- 🌱 I’m currently learning **django, SQL**
+- 🌱 I’m currently learning <strong>django, SQL</strong>
 </p>
 <p align="center">
-- 💬 Ask me about **JavaScript, JQuery, Python, Flask**
+- 💬 Ask me about <strong>JavaScript, JQuery, Python, Flask</strong>
 </p>
 <p align="center">
-- 📫 How to reach me **kwiatekexc@gmail.com**
+- 📫 How to reach me <strong>kwiatekexc@gmail.com</strong>
 </p>
 
 <p align="center">
