@@ -1,12 +1,18 @@
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kamil</h1>
+
 ![image](images/hero1-1.jpg)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kamil</h1>
+
 <h3 align="center">A passionate coder, technical minded Full Stack Software Developer from Netherland</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamil-kw" alt="kamil-kw" /></a> </p>
+
+<p align="center">Programmers quote I stand for</p>
+<p align="center">"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."</p>
+<p align="center">Andrew Hunt</p>
 
 <p align="center">
 - 🔭 I’m currently working on **Full Stack Software Developer Diploma**
