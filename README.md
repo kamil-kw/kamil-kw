@@ -35,7 +35,7 @@
 <a href="https://app.daily.dev/KamilK"><img src="https://api.daily.dev/devcards/19122f4b0e274e348cbdac26d4247d0a.png?r=py9" width="400" alt="Kamil Kwiatkowski's Dev Card"/></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kamil-kwiatkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kamil-kwiatkowski" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kamil k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kamil k." height="30" width="40" /></a>
