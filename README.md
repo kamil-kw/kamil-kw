@@ -76,7 +76,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-kw&" alt="kamil-kw" /></p>
 
-
+[![Kamil's github activity graph](https://activity-graph.herokuapp.com/graph?username=kamil-kw&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <h3 align="center">
 	⬇ Check my projects below and leave a ⭐️ if you like it ⬇
