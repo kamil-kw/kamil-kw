@@ -8,9 +8,9 @@
 
 <h3 align="center"><strong>A passionate coder, technical minded Full Stack Software Developer from Netherland</strong></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kamil-kw&theme=darkhub" alt="kamil-kw" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamil-kw" alt="kamil-kw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=kamil-kw" alt="kamil-kw" /></a> </p>
 
 <h3 align="center"><strong>Programmers quote I stand for</strong></h3>
 <p align="center"><i>In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</i></p>
