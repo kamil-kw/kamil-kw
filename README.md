@@ -6,6 +6,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here;See+more+about+me+below)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
+
 <h3 align="center"><strong>A passionate coder, technical minded Full Stack Software Developer from Netherland</strong></h3>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kamil-kw&theme=darkhub" alt="kamil-kw" /> </p>
