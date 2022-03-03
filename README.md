@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kamil-kw&theme=darkhub" alt="kamil-kw" /> </p>
 
 
-<h3 align="center"><strong>Programmers quote I stand for</strong></h3>
+<h3 align="center"><strong>A quote I stand for</strong></h3>
 <p align="center"><i>In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</i></p>
 <p align="center">--=Andrew Hunt=--</p>
 
