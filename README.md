@@ -77,7 +77,7 @@
 
 ![Kamil's github activity graph](https://activity-graph.herokuapp.com/graph?username=kamil-kw&theme=github)
 <br/>
-![Snake animation](https://github.com/kam-kw/kam-kw.github.io/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center">
 	⬇ Check my projects below and leave a ⭐️ if you like it ⬇
 </h3>
