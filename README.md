@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kamil</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kamil
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+</h1>
 
 ![image](images/hero1-1.jpg)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here;See+more+about+me+below)
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here;See+more+about+me+below" alt="javascript"/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
 
@@ -12,10 +14,13 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kamil-kw&theme=darkhub" alt="kamil-kw" /> </p>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <h3 align="center"><strong>A quote I stand for</strong></h3>
 <p align="center"><i>In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</i></p>
 <p align="center">--=Andrew Hunt=--</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <h3 align="center"><strong>What I'm busy with</strong></h3>
 
@@ -32,15 +37,24 @@
 - 📫 How to reach me <strong>kwiatekexc@gmail.com</strong>
 </p>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<h3 align="center">My Dev News Card:</h3>
+
 <p align="center">
 <a href="https://app.daily.dev/KamilK"><img src="https://api.daily.dev/devcards/19122f4b0e274e348cbdac26d4247d0a.png?r=py9" width="400" alt="Kamil Kwiatkowski's Dev Card"/></a>
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kamil-kwiatkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kamil-kwiatkowski" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kamil k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kamil k." height="30" width="40" /></a>
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -69,14 +83,20 @@
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-kw&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="kamil-kw" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-kw&show_icons=true&locale=en&theme=dark&hide_border=true" alt="kamil-kw" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kamil-kw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kamil-kw" /></p>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 ![Kamil's github activity graph](https://activity-graph.herokuapp.com/graph?username=kamil-kw&theme=github)
 <br/>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <h3 align="center">
 	⬇ Check my projects below and leave a ⭐️ if you like it ⬇
