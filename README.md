@@ -6,7 +6,9 @@
 ![image](images/hero1-1.jpg)
 
 
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here;See+more+about+me+below" alt="javascript"/></p>
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here+!;See+more+about+me+below&center=true&width=500&height=50"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamil-kw&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-kw" /> </p>
 
