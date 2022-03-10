@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on <strong>Full Stack Software Developer Diploma</strong>
 </p>
 <p align="center">
-- 🌱 I’m currently learning <strong>django, SQL</strong>
+- 🌱 I’m currently learning <strong>django, SQL, SCRUM</strong>
 </p>
 <p align="center">
 - 💬 Ask me about <strong>JavaScript, JQuery, Python, Flask</strong>
