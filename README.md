@@ -27,7 +27,7 @@
 <h3 align="center"><strong>What I'm busy with</strong></h3>
 
 <p align="center">
-- 🔭 I’m currently working on <strong>Full Stack Software Developer Diploma</strong>
+- 🔭 I’m currently working on <strong>Fifth project e-commerce store a part of Full Stack Software Developer Diploma</strong>
 </p>
 <p align="center">
 - 🌱 I’m currently learning <strong>django, SQL, SCRUM</strong>
