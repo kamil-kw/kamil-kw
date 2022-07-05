@@ -110,6 +110,8 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
+![image](images/octocat-1657012414178.png)
+
 <h3 align="center">
 	⬇ Check my projects below and leave a ⭐️ if you like it ⬇
 </h3>
